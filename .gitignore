@@ -1,0 +1,10 @@
+/target/
+/benchmarks/
+/benchmark-results/private/
+*.sock
+.env
+*.idb
+*.i64
+
+/dist/
+__pycache__/

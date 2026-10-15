@@ -1,0 +1,4 @@
+module IdriveCore {
+    header "idrive.h"
+    export *
+}
